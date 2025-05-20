@@ -1,10 +1,9 @@
 # Movie Recommendation System
 
 ## Overview
-This project is a movie recommendation system that utilizes collaborative filtering techniques to suggest movies based on user ratings. It features a graphical user interface (GUI) built with Tkinter and visualizations using Matplotlib.
+This project is a movie recommendation system that utilizes collaborative filtering techniques to suggest movies based on user ratings. It features a User-Based Collaborative Filtering and visualizations using Matplotlib.
 
 ## Features
-- User-friendly GUI for inputting user IDs.
 - Movie recommendations based on user similarities.
 - Visual representation of average movie ratings as both a bar chart and star ratings.
 
